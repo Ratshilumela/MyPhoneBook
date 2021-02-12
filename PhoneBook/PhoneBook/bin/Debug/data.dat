@@ -1,0 +1,50 @@
+<?xml version="1.0" standalone="yes"?>
+<PhoneData xmlns="http://tempuri.org/PhoneData.xsd">
+  <PhoneBook>
+    <PhoneNo>0768248912</PhoneNo>
+    <FullName>Ndivhuwo Justice</FullName>
+    <Email>Ratshilumela@gmail.com</Email>
+    <Address>362 Johannesburg</Address>
+    <ID>-2</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo>0112345678</PhoneNo>
+    <FullName>Bra Justice</FullName>
+    <Email>Test@gmail.com</Email>
+    <Address>Cape Town</Address>
+    <ID>-3</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo>0834567899</PhoneNo>
+    <FullName>Chiefs</FullName>
+    <Email>Chiefs@yahoo.com</Email>
+    <Address>Naturena</Address>
+    <ID>-4</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo>0845678976</PhoneNo>
+    <FullName>Pirates</FullName>
+    <Email>Pirates@webmai.com</Email>
+    <Address>Orlando</Address>
+    <ID>-5</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo>justo</PhoneNo>
+    <FullName>12</FullName>
+    <Email>t@we.co.za</Email>
+    <Address>South Africa</Address>
+    <ID>-6</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo>0842222222222</PhoneNo>
+    <FullName>Absa</FullName>
+    <Email>testing@ee.co.za</Email>
+    <Address>yyy</Address>
+    <ID>-7</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNo />
+    <FullName />
+    <ID>-8</ID>
+  </PhoneBook>
+</PhoneData>
